@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ckc6xexfNLs=",
+  "dgSpecHash": "AQyvkGhZRYk=",
   "success": true,
   "projectFilePath": "C:\\Repos\\AWSLambda\\AWSLambda\\AWSLambda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prakruti\\.nuget\\packages\\amazon.lambda.core\\2.4.0\\amazon.lambda.core.2.4.0.nupkg.sha512",
     "C:\\Users\\prakruti\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\prakruti\\.nuget\\packages\\awssdk.core\\3.7.400.56\\awssdk.core.3.7.400.56.nupkg.sha512",
+    "C:\\Users\\prakruti\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.403.6\\awssdk.dynamodbv2.3.7.403.6.nupkg.sha512",
+    "C:\\Users\\prakruti\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.10\\microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\prakruti\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
     "C:\\Users\\prakruti\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.10\\microsoft.netcore.app.crossgen2.win-x64.8.0.10.nupkg.sha512"
   ],
   "logs": []

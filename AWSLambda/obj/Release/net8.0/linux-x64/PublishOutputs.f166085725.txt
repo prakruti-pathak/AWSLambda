@@ -3,4 +3,6 @@ C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.runtimeconfig.
 C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.pdb
 C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
 C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
 C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.dll

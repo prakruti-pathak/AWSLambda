@@ -15,3 +15,6 @@ C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\refint\AWSLambda.dll
 C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.pdb
 C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.genruntimeconfig.cache
 C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\ref\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.sourcelink.json
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSSDK.DynamoDBv2.dll
