@@ -1,0 +1,17 @@
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSLambda.deps.json
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSLambda.runtimeconfig.json
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSLambda.pdb
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.csproj.AssemblyReference.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.AssemblyInfoInputs.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.AssemblyInfo.cs
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.csproj.CoreCompileInputs.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.csproj.Up2Date
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\refint\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.pdb
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.genruntimeconfig.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\ref\AWSLambda.dll

@@ -1,0 +1,17 @@
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSLambda.deps.json
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSLambda.runtimeconfig.json
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSLambda.pdb
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Repos\AWSLambda\AWSLambda\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.csproj.AssemblyReference.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.AssemblyInfoInputs.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.AssemblyInfo.cs
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.csproj.CoreCompileInputs.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.csproj.Up2Date
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\refint\AWSLambda.dll
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.pdb
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.genruntimeconfig.cache
+C:\Repos\AWSLambda\AWSLambda\obj\Release\net8.0\linux-x64\ref\AWSLambda.dll
