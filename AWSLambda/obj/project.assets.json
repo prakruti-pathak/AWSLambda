@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Amazon.Lambda.APIGatewayEvents/2.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Amazon.Lambda.Core/2.4.0": {
         "type": "package",
         "compile": {
@@ -62,6 +75,19 @@
       }
     },
     "net8.0/linux-x64": {
+      "Amazon.Lambda.APIGatewayEvents/2.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Amazon.Lambda.Core/2.4.0": {
         "type": "package",
         "compile": {
@@ -123,6 +149,24 @@
     }
   },
   "libraries": {
+    "Amazon.Lambda.APIGatewayEvents/2.7.1": {
+      "sha512": "ORuKOBjquor/clDL5ogeUoKEHt/iRmaC673gFpNzpwF5VkJ7LRvQc4MYnkeIexnXEwdS7yTkM4eSu9wzORi/wg==",
+      "type": "package",
+      "path": "amazon.lambda.apigatewayevents/2.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+        "amazon.lambda.apigatewayevents.nuspec",
+        "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll",
+        "lib/net8.0/Amazon.Lambda.APIGatewayEvents.xml",
+        "lib/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.dll",
+        "lib/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.xml",
+        "lib/netstandard2.0/Amazon.Lambda.APIGatewayEvents.dll",
+        "lib/netstandard2.0/Amazon.Lambda.APIGatewayEvents.xml"
+      ]
+    },
     "Amazon.Lambda.Core/2.4.0": {
       "sha512": "5gu/BV6rq+Hg5nMHMcfuKhdYf+xmhqpJkNzLpXkeh7JsOu46jvKD+E6M+ywRsS7XBDvoDEYUsAeoqCN8n7onBw==",
       "type": "package",
@@ -224,6 +268,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AWSSDK.DynamoDBv2 >= 3.7.403.6",
+      "Amazon.Lambda.APIGatewayEvents >= 2.7.1",
       "Amazon.Lambda.Core >= 2.4.0",
       "Amazon.Lambda.Serialization.SystemTextJson >= 2.4.4"
     ]
@@ -276,6 +321,10 @@
           "AWSSDK.DynamoDBv2": {
             "target": "Package",
             "version": "[3.7.403.6, )"
+          },
+          "Amazon.Lambda.APIGatewayEvents": {
+            "target": "Package",
+            "version": "[2.7.1, )"
           },
           "Amazon.Lambda.Core": {
             "target": "Package",

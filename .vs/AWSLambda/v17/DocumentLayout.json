@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{073772DF-9D75-49EE-ACC8-3C00AECA1A6F}|AWSLambda\\AWSLambda.csproj|c:\\repos\\awslambda\\awslambda\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{073772DF-9D75-49EE-ACC8-3C00AECA1A6F}|AWSLambda\\AWSLambda.csproj|solutionrelative:awslambda\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073772DF-9D75-49EE-ACC8-3C00AECA1A6F}|AWSLambda\\AWSLambda.csproj|c:\\repos\\awslambda\\awslambda\\awslambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{073772DF-9D75-49EE-ACC8-3C00AECA1A6F}|AWSLambda\\AWSLambda.csproj|solutionrelative:awslambda\\awslambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,7 +34,8 @@
               "RelativeToolTip": "AWSLambda\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T08:24:10.301Z"
+              "WhenOpened": "2024-11-21T08:24:10.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,19 +47,8 @@
               "RelativeToolTip": "AWSLambda\\aws-lambda-tools-defaults.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T08:23:59.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AWSLambda.csproj",
-              "DocumentMoniker": "C:\\Repos\\AWSLambda\\AWSLambda\\AWSLambda.csproj",
-              "RelativeDocumentMoniker": "AWSLambda\\AWSLambda.csproj",
-              "ToolTip": "C:\\Repos\\AWSLambda\\AWSLambda\\AWSLambda.csproj",
-              "RelativeToolTip": "AWSLambda\\AWSLambda.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-21T08:23:06.349Z"
+              "WhenOpened": "2024-11-21T08:23:59.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +58,7 @@
               "RelativeDocumentMoniker": "AWSLambda\\Function.cs",
               "ToolTip": "C:\\Repos\\AWSLambda\\AWSLambda\\Function.cs",
               "RelativeToolTip": "AWSLambda\\Function.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T08:21:12.043Z",
               "EditorCaption": ""

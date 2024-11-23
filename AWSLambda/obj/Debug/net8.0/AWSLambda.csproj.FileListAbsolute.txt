@@ -18,3 +18,4 @@ C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\ref\AWSLambda.dll
 C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSSDK.Core.dll
 C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\AWSSDK.DynamoDBv2.dll
 C:\Repos\AWSLambda\AWSLambda\obj\Debug\net8.0\AWSLambda.sourcelink.json
+C:\Repos\AWSLambda\AWSLambda\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll

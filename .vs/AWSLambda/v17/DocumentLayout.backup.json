@@ -38,7 +38,8 @@
               "RelativeToolTip": "AWSLambda\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T08:24:10.301Z"
+              "WhenOpened": "2024-11-21T08:24:10.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,7 +51,8 @@
               "RelativeToolTip": "AWSLambda\\aws-lambda-tools-defaults.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T08:23:59.174Z"
+              "WhenOpened": "2024-11-21T08:23:59.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +74,7 @@
               "RelativeDocumentMoniker": "AWSLambda\\Function.cs",
               "ToolTip": "C:\\Repos\\AWSLambda\\AWSLambda\\Function.cs",
               "RelativeToolTip": "AWSLambda\\Function.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T08:21:12.043Z",
               "EditorCaption": ""

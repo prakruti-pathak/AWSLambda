@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[3.7.403.6, )"
             },
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.7.1, )"
+            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[2.4.0, )"
